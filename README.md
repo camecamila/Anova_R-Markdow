@@ -2,7 +2,7 @@
 
 Aplicación del Metodo de Análisis de Varianza (ANOVA) para la modelización de datos en R. 
 
-Se mide el efecto de dos factores sobre la variable dependiente a partir de la comparacion de medias. Se busca determinar si existe o no interacción entre los factores. 
+Medir el efecto de dos factores sobre la variable dependiente a partir de la comparacion de medias  y analizar la interacción entre los factores. 
 
 - Analisis descriptivo
 - Test de Shapiro: normalidad
